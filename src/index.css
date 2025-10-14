@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+:root {
+  --primary_color_100: #1566d8;
+  --primary_color_200: #1e3a8a;
+  --main_black: #060400;
+  --main_white: #ffffff;
+  --main_gray: #898989;
+  --Outline: #e4e2e2;
+  --main_red: #950404;
+  --over_red: #620303;
+}
